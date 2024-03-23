@@ -8,7 +8,7 @@
 
 .video-box {
     height: 100vh;
-    width: 50%;
+    width: 100%;
     border: 2px solid red;
     overflow: hidden;
     border-radius: 2vmin;
